@@ -201,5 +201,5 @@ Fork, Clone, และ Pull Request ได้เลยครับ
 ---
 
 ## 📞 ติดต่อ
-ชื่อผู้พัฒนา: วงศกร หวลมานพ  
-GitHub: [https://github.com/wonsagorn](https://github.com/wonsagorn)
+ชื่อผู้พัฒนา: อกฤษณ์ นารัง  
+GitHub: [https://github.com/akrit](https://github.com/akrit)
